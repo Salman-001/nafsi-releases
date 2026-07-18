@@ -20,7 +20,7 @@ This repository hosts the **official downloads and issue tracker** for Nafsi. It
 
 Use it to:
 
-- **Download** the latest signed installer from the [Releases](https://github.com/Salman-001/nafsi-releases/releases) page (or from [usenafsi.com/download](https://usenafsi.com/download)).
+- **Download** the latest installer from the [Releases](https://github.com/Salman-001/nafsi-releases/releases) page (or from [usenafsi.com/download](https://usenafsi.com/download)).
 - **Report a bug** or **request a feature** in the [Issues](https://github.com/Salman-001/nafsi-releases/issues) tab.
 
 ---
@@ -49,7 +49,10 @@ Nafsi is a desktop app that helps a psychiatry or psychotherapy practice keep it
 
 ### Windows
 
-A Windows build is planned but **not yet available**. Watch this repository (or check [usenafsi.com/download](https://usenafsi.com/download)) for the first Windows release.
+1. Download the latest **`.msi`** from the [Releases](https://github.com/Salman-001/nafsi-releases/releases/latest) page.
+2. Run it. Windows SmartScreen may show a **"Windows protected your PC"** notice — click **More info → Run anyway** to continue. The installer adds Nafsi to your Start Menu and Desktop.
+
+**Requirements:** Windows 10 or 11 (64-bit).
 
 ---
 
